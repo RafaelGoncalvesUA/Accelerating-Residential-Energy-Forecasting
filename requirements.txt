@@ -1,0 +1,8 @@
+keras
+tensorflow[and-cuda]
+pandas
+numpy
+scikit-learn
+matplotlib
+tqdm
+dotenv
